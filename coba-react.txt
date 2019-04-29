@@ -1,4 +1,5 @@
 belajar  react native
 menguasai android
-kape
-skirpsi
+Skripsi
+membuat cell tower
+membuat SIIS
